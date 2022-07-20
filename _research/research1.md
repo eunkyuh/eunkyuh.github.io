@@ -1,7 +1,7 @@
 ---
 title: "Precise mass-radius-luminosiy-rotation relationships of M dwarfs"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/587837main_Kepler16_transit_art2_full.jpeg'>"
-collection: portfolio
+collection: research
 ---
 
 My dissertation work is to establish a precise mass-radius-luminosity-rotation relationship of M dwarf stars. Stellar properties are important to accurately measure radii and equilibrium temperatures of exoplanets. Recent studies have shown that each M dwarf hosts on average at least two exoplanets but we do not have well-constrained relations for M dwarf stellar properties which leaves us unprepared for NASA’s Transiting Exoplanet Search Satllite (TESS) mission. The best way to determine relations for M dwarf stars is to study eclipsing binaries.
