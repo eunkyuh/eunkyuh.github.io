@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Eunkyu Han"
-  avatar           : "profile"
+  avatar           : "profile.png"
   bio              : "Low-mass star enthusiast / Observing Astronomer / Near-infrared spectroscopist"
   location         : "Boston, MA"
   employer         : "University of Texas at Austin, TX"
   ADS              : "https://ui.adsabs.harvard.edu/public-libraries/gFRYlocIS0GWiBpbYDSRBQ"
   googlescholar    : "https://scholar.google.com/citations?user=XI9s9J4AAAAJ&hl=en"
-  email            :
+  email            : "eunkyu.han at utexas at edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -181,9 +181,9 @@ collections:
   publications:
     output: true
     permalink: /publication/
-  portfolio:
+  research:
     output: true
-    permalink: /:collection/:path/
+    permalink: /research/
   talks:
     output: false
     permalink: /:collection/:path/
