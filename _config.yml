@@ -13,7 +13,7 @@ name                     : &name "Eunkyu Han"
 description              : &description "IGRINS postdoctral fellow"
 url                      : https://eunkyuh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "eunkyuh/eunkyuh.github.io"
+repository               : "eunkyuh/eunkyuh.github.io/website"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
