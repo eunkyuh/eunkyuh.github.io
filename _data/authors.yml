@@ -5,6 +5,6 @@ Eunkyu Han:
   uri         : "http://name.com"
   email       : "eunkyu.han@utexas.edu"
   bio         : "This is the first name."
-  avatar      : "/images/profile.jpg"
+  avatar      : "profile.jpg"
   twitter     : "name"
   google_plus : "Name"
