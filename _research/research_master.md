@@ -1,0 +1,50 @@
+---
+title: "Research"
+excerpt: "Research summary"
+collection: research
+---
+
+
+Magnetic field measurements of M dwarfs using IGRINS spectra
+===
+Magnetic fields are ubiquitous in stars and play an important role in stellar evolution. In particular, M
+dwarfs are known to be magnetically active. The strength of surface magnetic fields is a critical component
+of atmospheric and interior models of M dwarfs and of determining the habitability of exoplanets orbiting
+around M dwarfs. However, the formation mechanism of magnetic fields within the M dwarfs is not well-known. Nonetheless, empirical determinations of the magnetic strength of M dwarfs are pivotal in testing the
+theoretical models of stellar interiors. One way to directly measure the magnetic field strengths is to
+measure the Zeeman splitting in the magnetically sensitive spectral lines. High-resolution near-infrared spectroscopy offers a great venue for this measurement because the Zeeman splitting gets more prominent at longer wavelengths. I am in the process of determining the magnetic field strengths of M dwarfs through the Zeeman splitting measurements using IGRINS spectra. These empirical measurements will help understand the role of magnetic fields in stellar properties as well as to test the robustness of mangetic stellar evolutionary models.
+
+![](http://eunkyuh.github.io/website/images/Red-Dwarf-Star-TVLM-513-46546.jpeg)
+Artist’s impression of red dwarf star TVLM 513-46546. Credit: NRAO/AUI/NSF; Dana Berry / SkyWorks
+
+
+
+Precise mass-radius-luminosiy-rotation relationships of M dwarfs
+===
+
+My dissertation work was to establish a precise mass-radius-luminosity-rotation relationship of M dwarf stars. Stellar properties are important to accurately measure radii and equilibrium temperatures of exoplanets. Recent studies have shown that each M dwarf hosts on average at least two exoplanets but we do not have well-constrained relations for M dwarf stellar properties which leaves us unprepared for NASA’s Transiting Exoplanet Search Satllite (TESS) mission. The best way to determine relations for M dwarf stars is to study eclipsing binaries.
+
+Eclipsing Binaries are valuable astronomical objects for studying physical parameters of stars such as mass, radius, and luminosity. Studies of eclipsing binaries often involve the analysis of photometric and spectroscopic data. The light curves of detached eclipsing binaries tell us the relative sizes of the component stars, the mass ratio, the ratio of surface brightness, the orbital inclination, and eccentricity. When radial velocity data are available in addition to the light curves, we can determine the masses, radii and the semi-major axes of each component to an accuracy of 1%. Furthermore, with measured parallaxes, we can measure the individual components’ absolute magnitudes, thus measuring the luminosities. My current research involves measuring individual magnitudes of eclipsing binaries to determine relations for M dwarf properties.
+
+![](http://eunkyuh.github.io/website/images/587837main_Kepler16_transit_art2_full.jpeg)
+An illustration of the Kepler-16 binary system. ILLUSTRATION COURTESY CALTECH/NASA
+
+
+
+Does an open cluster Lodén 1 extist
+===
+
+When I was a post-baccalaureate researcher at the Pennsylvania State University, I investigated a candidate open cluster, that caught our attention as “an old (2 Gyr) and nearby (360pc)” cluster, which could become a useful benchmark cluster.
+
+Based on observations made with the Southern African Large Telescope (SALT) Robert Stobie spectrograph, I confirmed the candidate open cluster Lodén 1 is neither old, nor nearby, nor a cluster by means of measuring radial velocities of purported members. I presented my results at the 223rd AAS meeting and recently published a paper (http://dx.doi.org/10.3847/0004-6256/152/1/7.). An article on Lodén 1 is also available on the SALT News page (https://www.salt.ac.za/news/loden-1-debunked/)
+
+
+Maintainer of the Exoplanet Orbit Database (EOD)
+===
+
+When I was at the Pennsylvania State University, I maintained the Exoplanet Orbit Database (EOD), which contains peer-reviewed orbital and transit parameters of exoplanets and stellar parameters of their host stars. Since January of 2010, when I first started working as a maintainer, the EOD expanded from 427 planets to over 750 planets, including planets discovered by radial velocity, transit, direct imaging, and microlensing. The EOD can be explored and is publicly available at exoplanets.org.Screen Shot 2016-05-16 at 4.56.22 PM
+
+In 2012, I wrote my honors thesis as a fulfillment of Schreyer Honors College. It includes the Exoplanet Orbit Database and many of  the details about what I did.
+
+![](http://eunkyuh.github.io/website/images/exoplanetsorg.png)
+
