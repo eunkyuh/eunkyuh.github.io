@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eunkyu Han / "
+title                    : "Eunkyu Han / Research Website"
 title_separator          : "-"
 name                     : &name "Eunkyu Han"
-description              : &description "personal description"
+description              : &description "IGRINS postdoctral fellow"
 url                      : https://eunkyuh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eunkyuh/eunkyuh.github.io"
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Eunkyu Han"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "BOSTON"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  avatar           : "profile.jpg"
+  bio              : "Low-mass star enthusiast / Observing Astronomer / Near-infrared spectroscopist"
+  location         : "Boston, MA"
+  employer         : "University of Texas at Austin, TX"
+  ADS              : "https://ui.adsabs.harvard.edu/public-libraries/gFRYlocIS0GWiBpbYDSRBQ"
+  googlescholar    : "https://scholar.google.com/citations?user=XI9s9J4AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "eunkyuh"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0001-9797-0019"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
