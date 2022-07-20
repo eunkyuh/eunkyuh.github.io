@@ -46,9 +46,9 @@ Professional Positions
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
+Publication Highlights
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -68,3 +68,5 @@ Publications
 #======
 #* Currently signed in to 43 different slack teams
  -->
+ 
+ For the full version of CV, please click [here](http://eunkyuh.github.io/website/files/CV_July2022.pdf)
