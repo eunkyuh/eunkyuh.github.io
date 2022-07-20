@@ -9,4 +9,4 @@ citation: 'Han et al. (2014). &quot;Exoplanet Orbit Database. II. Updates to Exo
 ---
 [Download paper here](http://eunkyuh.github.io/files/Han_2014_PASP_126_827.pdf)
 
-#Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Han et al. (2014) "Exoplanet Orbit Database. II. Updates to Exoplanets.org" <i>Publications of the Astronomical Society of the Pacific</i>. 126, 827 (2014) 
