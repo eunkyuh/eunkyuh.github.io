@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eunkyu Han / Research Website"
+title                    : "Dr. Eunkyu Han / Research Website"
 title_separator          : "-"
 name                     : &name "Eunkyu Han"
 description              : &description "IGRINS postdoctral fellow"
