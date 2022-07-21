@@ -184,9 +184,9 @@ collections:
   research:
     output: true
     permalink: /research/
-  talks:
+  bio:
     output: false
-    permalink: /:collection/:path/
+    permalink: /bio/
 
 
 # Defaults
@@ -236,12 +236,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _bio
   - scope:
       path: ""
-      type: talks
+      type: bio
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
