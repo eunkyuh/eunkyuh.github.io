@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+<!-- title: "CV" -->
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -20,7 +20,7 @@ Professional Positions
 * IGRINS postdoctoral fellow, August 2020 - Current
   * The University of Texas at Austin	
   * Duties included: Supporting IGRINS observations at Gemini-South telescope, Measuring magnetic field strengths of low-mass stars using high-resolution near-infrared spectra 
-  * Supervisor: Professor Dan Jaffe, Dr. Gregory Mace
+  * Supervisors: Professor Dan Jaffe, Dr. Gregory Mace
 
 * Graduate Research Assistant, 2015 - 2020
   * Boston University
