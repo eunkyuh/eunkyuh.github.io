@@ -179,8 +179,11 @@ collections:
     output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /publication/
+  cv:
+    output: true
+    permalink: /cv/  
   research:
     output: true
     permalink: /research/
