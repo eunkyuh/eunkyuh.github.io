@@ -181,9 +181,6 @@ collections:
   publications:
     output: false
     permalink: /publication/
-  cv:
-    output: true
-    permalink: /cv/  
   research:
     output: true
     permalink: /research/
@@ -243,14 +240,6 @@ defaults:
   - scope:
       path: ""
       type: bio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-  # _cv
-  - scope:
-      path: ""
-      type: cv
     values:
       layout: single
       author_profile: true
