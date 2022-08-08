@@ -12,7 +12,7 @@ dwarfs are known to be magnetically active. The strength of surface magnetic fie
 of atmospheric and interior models of M dwarfs and of determining the habitability of exoplanets orbiting
 around M dwarfs. However, the formation mechanism of magnetic fields within the M dwarfs is not well-known. Nonetheless, empirical determinations of the magnetic strength of M dwarfs are pivotal in testing the
 theoretical models of stellar interiors. One way to directly measure the magnetic field strengths is to
-measure the Zeeman splitting in the magnetically sensitive spectral lines. High-resolution near-infrared spectroscopy offers a great venue for this measurement because the Zeeman splitting gets more prominent at longer wavelengths. I am in the process of determining the magnetic field strengths of M dwarfs through the Zeeman splitting measurements using IGRINS spectra. These empirical measurements will help understand the role of magnetic fields in stellar properties as well as to test the robustness of mangetic stellar evolutionary models.
+measure Zeeman splitting in the magnetically sensitive spectral lines. High-resolution near-infrared spectroscopy offers a great venue for this measurement because Zeeman splitting gets more prominent at longer wavelengths. I am in the process of determining the magnetic field strengths of M dwarfs through Zeeman splitting measurements using IGRINS spectra. These empirical measurements will help understand the role of magnetic fields in stellar properties as well as to test the robustness of mangetic stellar evolutionary models.
 
 ![](http://eunkyuh.github.io/website/images/Red-Dwarf-Star-TVLM-513-46546.jpeg)
 Artist’s impression of red dwarf star TVLM 513-46546. Credit: NRAO/AUI/NSF; Dana Berry / SkyWorks
