@@ -31,7 +31,7 @@ An illustration of the Kepler-16 binary system. ILLUSTRATION COURTESY CALTECH/NA
 
 
 
-Does an open cluster Lodén 1 extist
+Does an open cluster Lodén 1 exist?
 ===
 
 When I was a post-baccalaureate researcher at the Pennsylvania State University, I investigated a candidate open cluster, that caught our attention as “an old (2 Gyr) and nearby (360pc)” cluster, which could become a useful benchmark cluster.
