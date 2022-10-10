@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Eunkyu Han"
   avatar           : "profile.png"
-  bio              : "Low-mass star enthusiast / Observing Astronomer / Near-infrared spectroscopist"
+  bio              : "Low-mass star enthusiast / Observing Astronomer / Spectroscopist"
   location         : "Boston, MA"
-  employer         : "University of Texas at Austin, TX (remote)"
+  employer         : "UT Austin, TX (remote)"
   ADS              : "https://ui.adsabs.harvard.edu/public-libraries/gFRYlocIS0GWiBpbYDSRBQ"
   googlescholar    : "https://scholar.google.com/citations?user=XI9s9J4AAAAJ&hl=en"
   email            : "eunkyu.han at utexas at edu"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "eunkyuh"
+  github           : #"eunkyuh"
   google_plus      :
   keybase          :
   instagram        :
