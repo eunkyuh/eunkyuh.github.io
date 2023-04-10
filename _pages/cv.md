@@ -21,12 +21,14 @@ Professional Positions
 ======
 * IGRINS postdoctoral fellow, August 2020 - Current
   * The University of Texas at Austin	
-  * Duties included: Supporting IGRINS observations at Gemini-South telescope, Measuring magnetic field strengths of low-mass stars using high-resolution near-infrared spectra 
+  * Duties included: Supporting IGRINS observations at Gemini-South telescope, Measuring magnetic field strengths of low-mass stars using high-resolution near-infrared spectra, Conducting a radial velocity survey to monitor binary stars and developing a tool to optimize observation schedules for a given telescope location and night for the survey using a reinforcement learning algorithm. Co-advising graduate students on their thesis projects and providing hands-on guidance
+ 
   * Supervisors: Professor Dan Jaffe, Dr. Gregory Mace
 
 * Graduate Research Assistant, 2015 - 2020
   * Boston University
-  * Duties included: determined a precise mass-radius relationship of M dwarfs from Kepler eclipsing binaries, conducted follow-up observations of M dwarf eclipsing binaries, Searched for low-mass eclipsing binaries in TESS using machine learning algorithm
+  * Duties included: determined a precise mass-radius relationship of M dwarfs from Kepler eclipsing binaries, conducted follow-up observations of M dwarf eclipsing binaries, Searched for low-mass eclipsing binaries in TESS using machine learning algorithm, Mentored undergraduate researchers and provided guidance for their research
+
   * Advisor: Professor Philip Muirhead
   
 * Research Assistant, 2013 - 2014
