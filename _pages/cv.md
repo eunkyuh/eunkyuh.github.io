@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For the full version of CV, please click [here](http://eunkyuh.github.io/website/files/CV_Mar2023_website.pdf)
+For the full version of CV, please click [here](http://eunkyuh.github.io/website/files/CV_April2023_website.pdf)
 
 Education
 ======
