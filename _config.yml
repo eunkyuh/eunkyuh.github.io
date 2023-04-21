@@ -183,7 +183,7 @@ collections:
     permalink: /website/publications/
   research:
     output: true
-    permalink: /website/research/
+    permalink: /research/
   bio:
     output: false
     permalink: /bio/
