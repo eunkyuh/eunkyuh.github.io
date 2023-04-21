@@ -180,10 +180,10 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /publications/
+    permalink: /website/publications/
   research:
     output: true
-    permalink: /research/
+    permalink: /website/research/
   bio:
     output: false
     permalink: /bio/
