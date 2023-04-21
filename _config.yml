@@ -180,7 +180,7 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /website/publications/
+    permalink: /publications/
   research:
     output: true
     permalink: /research/
