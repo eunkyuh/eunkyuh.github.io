@@ -28,7 +28,6 @@ Professional Positions
     * Conducting a radial velocity survey to monitor binary stars
     * Developing a tool to optimize observation schedules for a given telescope location and night for the survey using a reinforcement learning algorithm
     * Co-advising graduate students on their thesis projects and providing hands-on guidance
- 
   * Supervisors: Professor Dan Jaffe, Dr. Gregory Mace
 
 * Graduate Research Assistant, 2015 - 2020
@@ -38,21 +37,16 @@ Professional Positions
     * Conducting follow-up observations of M dwarf eclipsing binaries
     * Searching for low-mass eclipsing binaries in TESS using machine learning algorithm, 
     * Mentoring undergraduate researchers and provided guidance for their research
-
   * Advisor: Professor Philip Muirhead
   
-* Research Assistant, 2013 - 2014
+* Research Assistant, 2010 - 2014
   * Center for Exoplanets and Habitable Worlds, The Pennsylvania State University
   * Duties included: 
-    * Investigating open cluster candidate Loden1 through radial velocity measurements from SALT spectra 
-    * Conduct spectroscopic studies of Ruprecht 147 white dwarfs and M dwarfs using SALT & GTC OSIRIS spectra 
-  * Advisor: Professor Jason Wright
-
-* Undergraduate Researcher, 2010 - 2012
-  * The Pennsylvania State University
-  * Duties included
+    * Investigating open cluster candidate Lodén1 through radial velocity measurements from SALT spectra 
+    * Conduct spectroscopic studies of Ruprecht 147 white dwarfs and M dwarfs using SALT & GTC OSIRIS spectra
     * Maintaining and extending the Exoplanet Orbit Database and exoplanets.org
   * Advisor: Professor Jason Wright
+
   
 <!-- Skills
 ======
