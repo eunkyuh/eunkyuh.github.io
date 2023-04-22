@@ -183,7 +183,7 @@ collections:
     permalink: /:collection/:path/
   research:
     output: true
-    permalink: /research/
+    permalink: /:collection/:path/
   bio:
     output: false
     permalink: /bio/
