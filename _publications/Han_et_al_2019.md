@@ -1,5 +1,5 @@
 ---
-title: "Magnetic Inflation and Stellar Mass IV. Four Low-mass Kepler Eclipsing Binaries Consistent with Non-magnetic Stellar Evolutionary Models”"
+title: "Magnetic Inflation and Stellar Mass IV. Four Low-mass Kepler Eclipsing Binaries Consistent with Non-magnetic Stellar Evolutionary Models"
 collection: publications
 date: September, 2019
 venue: 'The Astronomical Journal'
