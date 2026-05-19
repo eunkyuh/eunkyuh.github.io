@@ -14,7 +14,7 @@ around M dwarfs. However, the formation mechanism of magnetic fields within the 
 theoretical models of stellar interiors. One way to directly measure the magnetic field strengths is to
 measure Zeeman splitting in the magnetically sensitive spectral lines. High-resolution near-infrared spectroscopy offers a great venue for this measurement because Zeeman splitting gets more prominent at longer wavelengths. I am in the process of determining the magnetic field strengths of M dwarfs through Zeeman splitting measurements using IGRINS spectra. These empirical measurements will help understand the role of magnetic fields in stellar properties as well as to test the robustness of mangetic stellar evolutionary models.
 
-![](http://eunkyuh.github.io/website/images/Red-Dwarf-Star-TVLM-513-46546.jpeg)
+![](http://eunkyuh.github.io/images/Red-Dwarf-Star-TVLM-513-46546.jpeg)
 Artist’s impression of red dwarf star TVLM 513-46546. Credit: NRAO/AUI/NSF; Dana Berry / SkyWorks
 
 
@@ -26,7 +26,7 @@ My dissertation work was to establish a precise mass-radius-luminosity-rotation 
 
 Eclipsing Binaries are valuable astronomical objects for studying physical parameters of stars such as mass, radius, and luminosity. Studies of eclipsing binaries often involve the analysis of photometric and spectroscopic data. The light curves of detached eclipsing binaries tell us the relative sizes of the component stars, the mass ratio, the ratio of surface brightness, the orbital inclination, and eccentricity. When radial velocity data are available in addition to the light curves, we can determine the masses, radii and the semi-major axes of each component to an accuracy of 1%. Furthermore, with measured parallaxes, we can measure the individual components’ absolute magnitudes, thus measuring the luminosities. My current research involves measuring individual magnitudes of eclipsing binaries to determine relations for M dwarf properties.
 
-![](http://eunkyuh.github.io/website/images/587837main_Kepler16_transit_art2_full.jpeg)
+![](http://eunkyuh.github.io/images/587837main_Kepler16_transit_art2_full.jpeg)
 An illustration of the Kepler-16 binary system. ILLUSTRATION COURTESY CALTECH/NASA
 
 
@@ -46,5 +46,5 @@ When I was at the Pennsylvania State University, I maintained the Exoplanet Orbi
 
 In 2012, I wrote my honors thesis as a fulfillment of Schreyer Honors College. It includes the Exoplanet Orbit Database and many of  the details about what I did.
 
-![](http://eunkyuh.github.io/website/images/exoplanetsorg.png)
+![](http://eunkyuh.github.io/images/exoplanetsorg.png)
 
