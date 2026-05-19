@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For the full version of CV, please click [here](http://eunkyuh.github.io/website/files/CV_May2023_website.pdf)
+For the full version of CV, please click [here](http://eunkyuh.github.io/files/CV_May2023_website.pdf)
 
 Education
 ======
@@ -20,7 +20,7 @@ Education
 
 Professional Positions
 ======
-* IGRINS postdoctoral fellow, August 2020 - Current
+* IGRINS postdoctoral fellow, August 2020 - August 2023
   * The University of Texas at Austin	
   * Duties included: 
     * Supporting IGRINS observations at Gemini-South telescope
@@ -33,7 +33,7 @@ Professional Positions
 * Graduate Research Assistant, 2015 - 2020
   * Boston University
   * Duties included: 
-    * Determing a precise mass-radius relationship of M dwarfs from Kepler eclipsing binaries, 
+    * Determining a precise mass-radius relationship of M dwarfs from Kepler eclipsing binaries, 
     * Conducting follow-up observations of M dwarf eclipsing binaries
     * Searching for low-mass eclipsing binaries in TESS using machine learning algorithm, 
     * Mentoring undergraduate researchers and provided guidance for their research
