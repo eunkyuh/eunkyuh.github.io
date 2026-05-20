@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For the full version of CV, please click [here](http://eunkyuh.github.io/files/CV_May2023_website.pdf)
+For the full version of CV, please click [here](http://eunkyuh.github.io/files/CV_Han_May2026.pdf)
 
 Education
 ======
@@ -20,6 +20,14 @@ Education
 
 Professional Positions
 ======
+* Staff Scientist II, October 2023 - Present
+  * Space Telescope Science Institute
+  * Duties include:
+    * Contributing to the development of simulation tools
+    * Serving as the product owner of the Roman WFI Exposure Time Calculator (ETC) in the multi-mission ETC team
+    * Serving as a deputy block lead of the simulation tools block within the branch
+    * Serving as a member of the simulation tools group at the Roman help desk
+
 * IGRINS postdoctoral fellow, August 2020 - August 2023
   * The University of Texas at Austin	
   * Duties included: 
