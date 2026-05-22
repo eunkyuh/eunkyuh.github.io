@@ -23,10 +23,11 @@ Professional Positions
 * Staff Scientist II, October 2023 - Present
   * Space Telescope Science Institute
   * Duties include:
-    * Contributing to the development of simulation tools
+    * Contributing to the development and maintenance of simulation tools
     * Serving as the product owner of the Roman WFI Exposure Time Calculator (ETC) in the multi-mission ETC team
     * Serving as a deputy block lead of the simulation tools block within the branch
     * Serving as a member of the simulation tools group at the Roman help desk
+    * Representing the branch at astronomical conferences
 
 * IGRINS postdoctoral fellow, August 2020 - August 2023
   * The University of Texas at Austin	
